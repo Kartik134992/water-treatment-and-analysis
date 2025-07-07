@@ -60,12 +60,3 @@ These parameters help in identifying patterns and determining the most suitable 
 - Web Framework (Flask/Streamlit – if applicable)
 - Git & GitHub for version control
 
----
-
-## 🚀 How to Use
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/khushijha-kj/WaterAnalysis.git
-   cd smart-water-reuse-predictor
-   ```
